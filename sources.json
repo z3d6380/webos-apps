@@ -102,7 +102,7 @@
     "upstream": "https://github.com/josippapez/dts_restore_plus",
     "fork": "https://github.com/z3d6380/dts-restore-plus",
     "manifestUrl": "https://github.com/josippapez/dts_restore_plus/releases/download/webos25-2.57/io.github.josippapez.dtsenabler.manifest.json",
-    "status": "install tracks the upstream manifest until the fork publishes its own"
+    "status": "forked, left out of apps.json because it targets webOS 25"
   },
   {
     "upstream": "larrysweb/oscar-cam",
@@ -115,7 +115,7 @@
     "upstream": "https://github.com/Schrotty74/LG-G5-Apps",
     "fork": "https://github.com/z3d6380/lg-g5-apps",
     "manifestUrl": "inline",
-    "status": "install tracks the upstream manifest until the fork publishes its own"
+    "status": "forked, left out of apps.json because it targets a G5"
   },
   {
     "id": "org.schrotty74.g5systemmonitor",
@@ -123,7 +123,7 @@
     "upstream": "https://github.com/Schrotty74/LG-G5-Apps",
     "fork": "https://github.com/z3d6380/lg-g5-apps",
     "manifestUrl": "inline",
-    "status": "install tracks the upstream manifest until the fork publishes its own"
+    "status": "forked, left out of apps.json because it targets a G5"
   },
   {
     "upstream": "lockyt/solar-dash-tv",
