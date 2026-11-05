@@ -1,0 +1,163 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 18,
+    "maxPage": 1,
+    "itemsTotal": 18
+  },
+  "packages": [
+    {
+      "id": "com.aurora.gamestream",
+      "title": "Aurora",
+      "iconUri": "https://raw.githubusercontent.com/GuiDev1994/aurora-tv/main/deploy/webos/icon_large.png",
+      "shortDescription": "<p>GameStream client for LG webOS. Stream at up to 4K 120Hz HDR.</p>",
+      "manifestUrl": "https://github.com/GuiDev1994/aurora-tv/releases/latest/download/com.aurora.gamestream.manifest.json"
+    },
+    {
+      "id": "com.biliwebos.app",
+      "title": "BiliTV",
+      "iconUri": "https://raw.githubusercontent.com/asdf17128/bili-webos/main/app/webos-meta/largeIcon.png",
+      "shortDescription": "Bilibili client for webOS TV",
+      "manifestUrl": "https://github.com/asdf17128/bili-webos/releases/download/v2.5.2/com.biliwebos.app.manifest.json"
+    },
+    {
+      "id": "com.breezyfin.app",
+      "title": "Breezyfin",
+      "iconUri": "https://raw.githubusercontent.com/botagas/Breezyfin/main/icon.png",
+      "shortDescription": "Jellyfin client for LG webOS TVs, built with Enact Sandstone.",
+      "manifestUrl": "https://github.com/botagas/Breezyfin/releases/download/v0.2.2/com.breezyfin.app.manifest.json"
+    },
+    {
+      "id": "com.cleanyourtv.manager",
+      "title": "CleanYourTV",
+      "iconUri": "https://raw.githubusercontent.com/lasharor/cleanyourtv-WebOS/main/manager/app/largeIcon.png",
+      "shortDescription": "A clean Home screen for rooted LG TVs, without LG's ads and tracking",
+      "manifestUrl": "https://github.com/lasharor/cleanyourtv-WebOS/releases/download/v1.6.18/com.cleanyourtv.manager.manifest.json"
+    },
+    {
+      "id": "io.github.rorygallagher2024.lg-webos-dashboard",
+      "title": "Glasshouse",
+      "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/main/server/assets/dashboard-app/assets/icon130.png",
+      "shortDescription": "Own the glass. Dashboard, privacy controls and Home Assistant bridge for rooted LG TVs",
+      "manifestUrl": "https://github.com/rorygallagher2024/glasshouse/releases/download/v0.139.0/io.github.rorygallagher2024.lg-webos-dashboard.manifest.json"
+    },
+    {
+      "id": "tld.my.customlauncher",
+      "title": "Hearth for WebOS",
+      "iconUri": "https://raw.githubusercontent.com/rudra-avatar/Hearth/main/public/largeIcon.png",
+      "shortDescription": "Fast, calm home screen: clock, weather, apps, inputs, wallpaper.",
+      "manifest": {
+        "id": "tld.my.customlauncher",
+        "version": "2.1.3",
+        "type": "web",
+        "title": "Hearth for WebOS",
+        "appDescription": "A fast, calm home screen for LG webOS TVs: clock, weather, your apps and inputs, wallpaper or slideshow.",
+        "iconUri": "https://raw.githubusercontent.com/rudra-avatar/Hearth/main/public/largeIcon.png",
+        "sourceUrl": "https://github.com/rudra-avatar/Hearth",
+        "rootRequired": "optional",
+        "ipkUrl": "https://github.com/rudra-avatar/Hearth/releases/download/v2.1.3/tld.my.customlauncher_2.1.3_all.ipk",
+        "ipkHash": {
+          "sha256": "fe89adc061eb282d2350c1ac2220a7529d14374891e9a252c2b4d5fe503cac88"
+        },
+        "ipkSize": 19320910
+      }
+    },
+    {
+      "id": "org.jellyfin.webos",
+      "title": "Jellyfin",
+      "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
+      "shortDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
+      "manifestUrl": "https://github.com/jellyfin/jellyfin-webos/releases/download/v1.2.2/org.jellyfin.webos.manifest.json"
+    },
+    {
+      "id": "org.webosbrew.inputhook",
+      "title": "LG Input Hook",
+      "iconUri": "https://raw.githubusercontent.com/Simon34545/lginputhook/main/assets/largeIcon.png",
+      "shortDescription": "LG Input Hook - Button remapper for TV remotes",
+      "manifestUrl": "https://github.com/Simon34545/lginputhook/releases/download/v1.5.1/org.webosbrew.inputhook.manifest.json"
+    },
+    {
+      "id": "org.ohmybahgosh.lgusb2eth0",
+      "title": "LG-USB-2-ETH0",
+      "iconUri": "https://raw.githubusercontent.com/ohmybahgosh/LG-USB-2-ETH0/main/webos-app/src/icon160.png",
+      "shortDescription": "Make a USB Ethernet adapter the TV's eth0",
+      "manifestUrl": "https://github.com/ohmybahgosh/LG-USB-2-ETH0/releases/download/v2.4.9/org.ohmybahgosh.lgusb2eth0.manifest.json"
+    },
+    {
+      "id": "ooo.lew.lifesgoodwithoutspying",
+      "title": "Life's Good Without Spying",
+      "iconUri": "https://raw.githubusercontent.com/lewisdoesstuff/lifesgoodwithoutspying/main/app/largeIcon.png",
+      "shortDescription": "<p>Switches off LG TV surveillance: ads, ACR and voice capture.</p>",
+      "manifestUrl": "https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.manifest.json"
+    },
+    {
+      "id": "com.github.afonsojramos.magicmapper",
+      "title": "Magic Mapper",
+      "iconUri": "https://github.com/afonsojramos/magic-mapper-webos/releases/latest/download/largeIcon.png",
+      "shortDescription": "Discover, disable, and remap LG Magic Remote buttons from the TV",
+      "manifestUrl": "https://github.com/afonsojramos/magic-mapper-webos/releases/download/v1.1.2/com.github.afonsojramos.magicmapper.manifest.json"
+    },
+    {
+      "id": "org.moonfin.webos",
+      "title": "Moonfin",
+      "iconUri": "https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/main/packages/build-webos/webos-meta/icon-130.png",
+      "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
+      "manifestUrl": "https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/org.moonfin.webos.manifest.json"
+    },
+    {
+      "id": "com.sostk.nativejelly",
+      "title": "Native Jelly",
+      "iconUri": "https://raw.githubusercontent.com/sostk/native-jelly/main/pkg/icon160.png",
+      "shortDescription": "Unofficial native Jellyfin client - not affiliated with Jellyfin",
+      "manifestUrl": "https://github.com/sostk/native-jelly/releases/download/v0.9.0/com.sostk.nativejelly.manifest.json"
+    },
+    {
+      "id": "com.ocenfin.app",
+      "title": "OcenFin",
+      "iconUri": "https://raw.githubusercontent.com/seluce/OcenFin/main/public/icon.png",
+      "shortDescription": "Jellyfin client for webOS",
+      "manifestUrl": "https://github.com/seluce/OcenFin/releases/download/2026.11.02/com.ocenfin.app.manifest.json"
+    },
+    {
+      "id": "org.ownyourglass.control",
+      "title": "own-your-glass",
+      "iconUri": "https://raw.githubusercontent.com/JulioFerrero/own-your-glass/main/app/largeIcon.png",
+      "shortDescription": "Hardens a rooted LG webOS TV: microphones, screen capture, ads, telemetry and ACR.",
+      "manifestUrl": "https://github.com/JulioFerrero/own-your-glass/releases/download/v0.8.14/org.ownyourglass.control.manifest.json"
+    },
+    {
+      "id": "org.webosbrew.piccap",
+      "title": "PicCap",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/frontend/assets/logo_big.png",
+      "shortDescription": "Hyperion Sender App - Ambilight for WebOS",
+      "manifestUrl": "https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap.manifest.json"
+    },
+    {
+      "id": "tld.my.simplelauncher",
+      "title": "Simple LG launcher",
+      "iconUri": "https://raw.githubusercontent.com/fardroid/Simple-LG-launcher/main/public/largeIcon.png",
+      "shortDescription": "Clock, weather, calendar and your apps over your wallpaper. A fork of Hearth.",
+      "manifest": {
+        "id": "tld.my.simplelauncher",
+        "version": "1.10.1",
+        "type": "web",
+        "title": "Simple LG launcher",
+        "appDescription": "A quieter home screen for LG TVs: clock, weather, your calendar and a row of apps over your wallpaper.",
+        "iconUri": "https://raw.githubusercontent.com/fardroid/Simple-LG-launcher/main/public/largeIcon.png",
+        "sourceUrl": "https://github.com/fardroid/Simple-LG-launcher",
+        "rootRequired": "optional",
+        "ipkUrl": "https://github.com/fardroid/Simple-LG-launcher/releases/download/v1.10.1/tld.my.simplelauncher_1.10.1_all.ipk",
+        "ipkHash": {
+          "sha256": "66e4b196655e2b5a4ee91027c6c35c247c1a9554e74b674a0347fda3b192eccc"
+        },
+        "ipkSize": 1664704
+      }
+    },
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube AdFree",
+      "iconUri": "https://raw.githubusercontent.com/webosbrew/youtube-webos/main/assets/largeIcon.png",
+      "manifestUrl": "https://github.com/webosbrew/youtube-webos/releases/download/v0.5.3/youtube.leanback.v4.manifest.json"
+    }
+  ]
+}

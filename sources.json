@@ -1,0 +1,275 @@
+[
+  {
+    "id": "org.jellyfin.webos",
+    "title": "Jellyfin",
+    "upstream": "https://github.com/jellyfin/jellyfin-webos",
+    "fork": "https://github.com/z3d6380/jellyfin-webos",
+    "manifestUrl": "https://github.com/jellyfin/jellyfin-webos/releases/download/v1.2.2/org.jellyfin.webos.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "org.moonfin.webos",
+    "title": "Moonfin",
+    "upstream": "https://github.com/Moonfin-Client/Smart-TV",
+    "fork": "https://github.com/z3d6380/moonfin-smart-tv",
+    "manifestUrl": "https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/org.moonfin.webos.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "MoazSalem/litefin",
+    "fork": "https://github.com/z3d6380/litefin",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "com.breezyfin.app",
+    "title": "Breezyfin",
+    "upstream": "https://github.com/botagas/Breezyfin",
+    "fork": "https://github.com/z3d6380/breezyfin",
+    "manifestUrl": "https://github.com/botagas/Breezyfin/releases/download/v0.2.2/com.breezyfin.app.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "com.ocenfin.app",
+    "title": "OcenFin",
+    "upstream": "https://github.com/seluce/OcenFin",
+    "fork": "https://github.com/z3d6380/ocenfin",
+    "manifestUrl": "https://github.com/seluce/OcenFin/releases/download/2026.11.02/com.ocenfin.app.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "youtube.leanback.v4",
+    "title": "YouTube AdFree",
+    "upstream": "https://github.com/webosbrew/youtube-webos",
+    "fork": "https://github.com/z3d6380/youtube-webos",
+    "manifestUrl": "https://github.com/webosbrew/youtube-webos/releases/download/v0.5.3/youtube.leanback.v4.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "com.biliwebos.app",
+    "title": "BiliTV",
+    "upstream": "https://github.com/asdf17128/bili-webos",
+    "fork": "https://github.com/z3d6380/bili-webos",
+    "manifestUrl": "https://github.com/asdf17128/bili-webos/releases/download/v2.5.2/com.biliwebos.app.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "com.sostk.nativejelly",
+    "title": "Native Jelly",
+    "upstream": "https://github.com/sostk/native-jelly",
+    "fork": "https://github.com/z3d6380/native-jelly",
+    "manifestUrl": "https://github.com/sostk/native-jelly/releases/download/v0.9.0/com.sostk.nativejelly.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "com.aurora.gamestream",
+    "title": "Aurora",
+    "upstream": "https://github.com/GuiDev1994/aurora-tv",
+    "fork": "https://github.com/z3d6380/aurora-tv",
+    "manifestUrl": "https://github.com/GuiDev1994/aurora-tv/releases/latest/download/com.aurora.gamestream.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "tolgakurtuluss/pocketvibe-webos",
+    "fork": "https://github.com/z3d6380/pocketvibe-webos",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "duffpl/gfn-webos",
+    "fork": "https://github.com/z3d6380/gfn-webos",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "org.webosbrew.piccap",
+    "title": "PicCap",
+    "upstream": "https://github.com/TBSniller/piccap",
+    "fork": "https://github.com/z3d6380/piccap",
+    "manifestUrl": "https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "adeze/lg-hue-sync",
+    "fork": "https://github.com/z3d6380/lg-hue-sync",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "danzig666/webos-rustdesk-client",
+    "fork": "https://github.com/z3d6380/webos-rustdesk-client",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "io.github.josippapez.dtsenabler",
+    "title": "DTS Enabler",
+    "upstream": "https://github.com/josippapez/dts_restore_plus",
+    "fork": "https://github.com/z3d6380/dts-restore-plus",
+    "manifestUrl": "https://github.com/josippapez/dts_restore_plus/releases/download/webos25-2.57/io.github.josippapez.dtsenabler.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "larrysweb/oscar-cam",
+    "fork": "https://github.com/z3d6380/oscar-cam",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "org.schrotty74.g5launcher",
+    "title": "G5 TV Launcher",
+    "upstream": "https://github.com/Schrotty74/LG-G5-Apps",
+    "fork": "https://github.com/z3d6380/lg-g5-apps",
+    "manifestUrl": "inline",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "org.schrotty74.g5systemmonitor",
+    "title": "G5 System Monitor",
+    "upstream": "https://github.com/Schrotty74/LG-G5-Apps",
+    "fork": "https://github.com/z3d6380/lg-g5-apps",
+    "manifestUrl": "inline",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "lockyt/solar-dash-tv",
+    "fork": "https://github.com/z3d6380/solar-dash-tv",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "org.ohmybahgosh.lgusb2eth0",
+    "title": "LG-USB-2-ETH0",
+    "upstream": "https://github.com/ohmybahgosh/LG-USB-2-ETH0",
+    "fork": "https://github.com/z3d6380/lg-usb-2-eth0",
+    "manifestUrl": "https://github.com/ohmybahgosh/LG-USB-2-ETH0/releases/download/v2.4.9/org.ohmybahgosh.lgusb2eth0.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "furkan-bayrak/lg-tv-blocklist",
+    "fork": "https://github.com/z3d6380/lg-tv-blocklist",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "ooo.lew.lifesgoodwithoutspying",
+    "title": "Life's Good Without Spying",
+    "upstream": "https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
+    "fork": "https://github.com/z3d6380/lifesgoodwithoutspying",
+    "manifestUrl": "https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "io.github.rorygallagher2024.lg-webos-dashboard",
+    "title": "Glasshouse",
+    "upstream": "https://github.com/rorygallagher2024/glasshouse",
+    "fork": "https://github.com/z3d6380/glasshouse",
+    "manifestUrl": "https://github.com/rorygallagher2024/glasshouse/releases/download/v0.139.0/io.github.rorygallagher2024.lg-webos-dashboard.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "ihtisham1211/native-tv",
+    "fork": "https://github.com/z3d6380/native-tv",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "tld.my.customlauncher",
+    "title": "Hearth for WebOS",
+    "upstream": "https://github.com/rudra-avatar/Hearth",
+    "fork": "https://github.com/z3d6380/hearth",
+    "manifestUrl": "inline",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "Shantil-K/OpenLauncher",
+    "fork": "https://github.com/z3d6380/openlauncher",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "zzeppieri/webos-custom-home",
+    "fork": "https://github.com/z3d6380/webos-custom-home",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "ecklf/lg-luma",
+    "fork": "https://github.com/z3d6380/lg-luma",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "simbasjungles/free-my-tv",
+    "fork": "https://github.com/z3d6380/free-my-tv",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "ammar027/lumen-webos",
+    "fork": "https://github.com/z3d6380/lumen-webos",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "rawinek/webos-homebar",
+    "fork": "https://github.com/z3d6380/webos-homebar",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "mexicanninja250/rivera-interface-beta",
+    "fork": "https://github.com/z3d6380/rivera-interface-beta",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "com.cleanyourtv.manager",
+    "title": "CleanYourTV",
+    "upstream": "https://github.com/lasharor/cleanyourtv-WebOS",
+    "fork": "https://github.com/z3d6380/cleanyourtv-webos",
+    "manifestUrl": "https://github.com/lasharor/cleanyourtv-WebOS/releases/download/v1.6.18/com.cleanyourtv.manager.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "KaykCaputo/WiiOS-webOS",
+    "fork": "https://github.com/z3d6380/wiios-webos",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "testtrader1993/webos-console-home",
+    "fork": "https://github.com/z3d6380/webos-console-home",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "ratelimits/atlauncher",
+    "fork": "https://github.com/z3d6380/atlauncher",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "id": "tld.my.simplelauncher",
+    "title": "Simple LG launcher",
+    "upstream": "https://github.com/fardroid/Simple-LG-launcher",
+    "fork": "https://github.com/z3d6380/simple-lg-launcher",
+    "manifestUrl": "inline",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "org.ownyourglass.control",
+    "title": "own-your-glass",
+    "upstream": "https://github.com/JulioFerrero/own-your-glass",
+    "fork": "https://github.com/z3d6380/own-your-glass",
+    "manifestUrl": "https://github.com/JulioFerrero/own-your-glass/releases/download/v0.8.14/org.ownyourglass.control.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "org.webosbrew.inputhook",
+    "title": "LG Input Hook",
+    "upstream": "https://github.com/Simon34545/lginputhook",
+    "fork": "https://github.com/z3d6380/lginputhook",
+    "manifestUrl": "https://github.com/Simon34545/lginputhook/releases/download/v1.5.1/org.webosbrew.inputhook.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "id": "com.github.afonsojramos.magicmapper",
+    "title": "Magic Mapper",
+    "upstream": "https://github.com/afonsojramos/magic-mapper-webos",
+    "fork": "https://github.com/z3d6380/magic-mapper-webos",
+    "manifestUrl": "https://github.com/afonsojramos/magic-mapper-webos/releases/download/v1.1.2/com.github.afonsojramos.magicmapper.manifest.json",
+    "status": "install tracks the upstream manifest until the fork publishes its own"
+  },
+  {
+    "upstream": "azoffshowy/dangbro",
+    "fork": "https://github.com/z3d6380/dangbro",
+    "status": "forked, no package manifest yet"
+  },
+  {
+    "upstream": "Native-Webos/webos-native-app-kit",
+    "fork": "https://github.com/z3d6380/webos-native-app-kit",
+    "status": "forked, no package manifest yet"
+  }
+]
