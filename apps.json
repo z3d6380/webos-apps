@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 18,
+    "count": 19,
     "maxPage": 1,
-    "itemsTotal": 18
+    "itemsTotal": 19
   },
   "packages": [
     {
@@ -152,6 +152,13 @@
         },
         "ipkSize": 1664704
       }
+    },
+    {
+      "id": "io.github.batmanrises.slopium",
+      "title": "Slopium",
+      "iconUri": "https://raw.githubusercontent.com/z3d6380/slopium/main/repo/icon160.png",
+      "shortDescription": "A calm home screen: clock, weather, your apps and inputs, and a recent-apps panel.",
+      "manifestUrl": "https://github.com/z3d6380/slopium/releases/latest/download/io.github.batmanrises.slopium.manifest.json"
     },
     {
       "id": "youtube.leanback.v4",

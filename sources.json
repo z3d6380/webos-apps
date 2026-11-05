@@ -169,8 +169,8 @@
     "title": "Slopium",
     "upstream": "https://github.com/batmanrises/Slopium",
     "fork": "https://github.com/z3d6380/slopium",
-    "manifestUrl": "https://github.com/batmanrises/Slopium/releases/download/v1.0.1/io.github.batmanrises.slopium.manifest.json",
-    "status": "forked, left out of apps.json until you want it listed"
+    "manifestUrl": "https://github.com/z3d6380/slopium/releases/latest/download/io.github.batmanrises.slopium.manifest.json",
+    "status": "install tracks the fork release"
   },
   {
     "id": "tld.my.customlauncher",
